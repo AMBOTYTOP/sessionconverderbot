@@ -1,0 +1,30 @@
+{
+    "name": "Sessoin Converd Bot",
+    "description": "Telegram Group Sessoin Converd Bot.",
+    "logo": "https://te.legra.ph/file/baadee33162f2eb56fae6.jpg",
+    "keywords": [
+       "telegram",
+       "modular",
+       "group",
+       "converd"
+    ],   
+ "repository": "https://github.com/AbhiModszYT",
+ "stack": "heroku-22",
+ "env": {
+    "API_ID": {
+       "description": "Get this value from my.telegram.org/apps.",
+       "required": true,
+       "value": "12227067"
+    },
+    "API_HASH": {
+       "description": "Get this value from my.telegram.org/apps.",
+       "required": true,
+       "value": "b463bedd791aa733ae2297e6520302fe"
+    },
+    "TOKEN": {
+       "description": "Get bot token from @BotFather on TG",
+       "required": true,
+       "value": "5894209648:AAHHD6eCx8rDk-k624MBIC_as86Hh3zVjzQ"
+    }
+ }
+}
