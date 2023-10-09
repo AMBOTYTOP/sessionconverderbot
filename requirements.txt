@@ -1,5 +1,6 @@
 asyncio
 aiohttp
+cachetools
 async-lru
 pyaes==1.6.1
 pyasn1==0.4.8
